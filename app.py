@@ -1,3 +1,4 @@
+pip install ipeadatapy
 import streamlit as st
 import ipeadatapy as ip
 import pandas as pd
